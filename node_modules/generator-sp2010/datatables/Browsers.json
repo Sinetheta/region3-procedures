@@ -1,0 +1,2053 @@
+[{
+  "__metadata": {
+    "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(1)",
+    "etag": "W/\"1\"",
+    "type": "Microsoft.SharePoint.DataService.BrowsersItem"
+  },
+  "ContentTypeID": "0x01000C96B5148AE0E6488BD9B5BB2E969D98",
+  "RenderingEngine": "Gecko",
+  "Browser": "Firefox 1.0",
+  "Platforms": "Win 98+ / OSX.2+",
+  "Version": "1.7",
+  "CSSGrade": "A",
+  "Id": 1,
+  "ContentType": "Item",
+  "Modified": "\/Date(1362327545000)\/",
+  "Created": "\/Date(1362327545000)\/",
+  "CreatedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(1)/CreatedBy"
+    }
+  },
+  "CreatedById": 9,
+  "ModifiedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(1)/ModifiedBy"
+    }
+  },
+  "ModifiedById": 9,
+  "Owshiddenversion": 1,
+  "Version0": "1.0",
+  "Attachments": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(1)/Attachments"
+    }
+  },
+  "Path": "/dev/kpub/Lists/Browsers"
+}, {
+  "__metadata": {
+    "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(2)",
+    "etag": "W/\"1\"",
+    "type": "Microsoft.SharePoint.DataService.BrowsersItem"
+  },
+  "ContentTypeID": "0x01000C96B5148AE0E6488BD9B5BB2E969D98",
+  "RenderingEngine": "Gecko",
+  "Browser": "Firefox 1.5",
+  "Platforms": "Win 98+ / OSX.2+",
+  "Version": "1.8",
+  "CSSGrade": "A",
+  "Id": 2,
+  "ContentType": "Item",
+  "Modified": "\/Date(1362327546000)\/",
+  "Created": "\/Date(1362327546000)\/",
+  "CreatedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(2)/CreatedBy"
+    }
+  },
+  "CreatedById": 9,
+  "ModifiedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(2)/ModifiedBy"
+    }
+  },
+  "ModifiedById": 9,
+  "Owshiddenversion": 1,
+  "Version0": "1.0",
+  "Attachments": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(2)/Attachments"
+    }
+  },
+  "Path": "/dev/kpub/Lists/Browsers"
+}, {
+  "__metadata": {
+    "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(3)",
+    "etag": "W/\"1\"",
+    "type": "Microsoft.SharePoint.DataService.BrowsersItem"
+  },
+  "ContentTypeID": "0x01000C96B5148AE0E6488BD9B5BB2E969D98",
+  "RenderingEngine": "Gecko",
+  "Browser": "Firefox 2.0",
+  "Platforms": "Win 98+ / OSX.2+",
+  "Version": "1.8",
+  "CSSGrade": "A",
+  "Id": 3,
+  "ContentType": "Item",
+  "Modified": "\/Date(1362327546000)\/",
+  "Created": "\/Date(1362327546000)\/",
+  "CreatedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(3)/CreatedBy"
+    }
+  },
+  "CreatedById": 9,
+  "ModifiedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(3)/ModifiedBy"
+    }
+  },
+  "ModifiedById": 9,
+  "Owshiddenversion": 1,
+  "Version0": "1.0",
+  "Attachments": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(3)/Attachments"
+    }
+  },
+  "Path": "/dev/kpub/Lists/Browsers"
+}, {
+  "__metadata": {
+    "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(4)",
+    "etag": "W/\"1\"",
+    "type": "Microsoft.SharePoint.DataService.BrowsersItem"
+  },
+  "ContentTypeID": "0x01000C96B5148AE0E6488BD9B5BB2E969D98",
+  "RenderingEngine": "Gecko",
+  "Browser": "Firefox 3.0",
+  "Platforms": "Win 2k+ / OSX.3+",
+  "Version": "1.9",
+  "CSSGrade": "A",
+  "Id": 4,
+  "ContentType": "Item",
+  "Modified": "\/Date(1362327546000)\/",
+  "Created": "\/Date(1362327546000)\/",
+  "CreatedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(4)/CreatedBy"
+    }
+  },
+  "CreatedById": 9,
+  "ModifiedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(4)/ModifiedBy"
+    }
+  },
+  "ModifiedById": 9,
+  "Owshiddenversion": 1,
+  "Version0": "1.0",
+  "Attachments": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(4)/Attachments"
+    }
+  },
+  "Path": "/dev/kpub/Lists/Browsers"
+}, {
+  "__metadata": {
+    "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(5)",
+    "etag": "W/\"1\"",
+    "type": "Microsoft.SharePoint.DataService.BrowsersItem"
+  },
+  "ContentTypeID": "0x01000C96B5148AE0E6488BD9B5BB2E969D98",
+  "RenderingEngine": "Gecko",
+  "Browser": "Camino 1.0",
+  "Platforms": "OSX.2+",
+  "Version": "1.8",
+  "CSSGrade": "A",
+  "Id": 5,
+  "ContentType": "Item",
+  "Modified": "\/Date(1362327547000)\/",
+  "Created": "\/Date(1362327547000)\/",
+  "CreatedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(5)/CreatedBy"
+    }
+  },
+  "CreatedById": 9,
+  "ModifiedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(5)/ModifiedBy"
+    }
+  },
+  "ModifiedById": 9,
+  "Owshiddenversion": 1,
+  "Version0": "1.0",
+  "Attachments": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(5)/Attachments"
+    }
+  },
+  "Path": "/dev/kpub/Lists/Browsers"
+}, {
+  "__metadata": {
+    "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(6)",
+    "etag": "W/\"1\"",
+    "type": "Microsoft.SharePoint.DataService.BrowsersItem"
+  },
+  "ContentTypeID": "0x01000C96B5148AE0E6488BD9B5BB2E969D98",
+  "RenderingEngine": "Gecko",
+  "Browser": "Camino 1.5",
+  "Platforms": "OSX.3+",
+  "Version": "1.8",
+  "CSSGrade": "A",
+  "Id": 6,
+  "ContentType": "Item",
+  "Modified": "\/Date(1362327547000)\/",
+  "Created": "\/Date(1362327547000)\/",
+  "CreatedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(6)/CreatedBy"
+    }
+  },
+  "CreatedById": 9,
+  "ModifiedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(6)/ModifiedBy"
+    }
+  },
+  "ModifiedById": 9,
+  "Owshiddenversion": 1,
+  "Version0": "1.0",
+  "Attachments": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(6)/Attachments"
+    }
+  },
+  "Path": "/dev/kpub/Lists/Browsers"
+}, {
+  "__metadata": {
+    "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(7)",
+    "etag": "W/\"1\"",
+    "type": "Microsoft.SharePoint.DataService.BrowsersItem"
+  },
+  "ContentTypeID": "0x01000C96B5148AE0E6488BD9B5BB2E969D98",
+  "RenderingEngine": "Gecko",
+  "Browser": "Netscape 7.2",
+  "Platforms": "Win 95+ / Mac OS 8.6-9.2",
+  "Version": "1.7",
+  "CSSGrade": "A",
+  "Id": 7,
+  "ContentType": "Item",
+  "Modified": "\/Date(1362327548000)\/",
+  "Created": "\/Date(1362327548000)\/",
+  "CreatedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(7)/CreatedBy"
+    }
+  },
+  "CreatedById": 9,
+  "ModifiedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(7)/ModifiedBy"
+    }
+  },
+  "ModifiedById": 9,
+  "Owshiddenversion": 1,
+  "Version0": "1.0",
+  "Attachments": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(7)/Attachments"
+    }
+  },
+  "Path": "/dev/kpub/Lists/Browsers"
+}, {
+  "__metadata": {
+    "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(8)",
+    "etag": "W/\"1\"",
+    "type": "Microsoft.SharePoint.DataService.BrowsersItem"
+  },
+  "ContentTypeID": "0x01000C96B5148AE0E6488BD9B5BB2E969D98",
+  "RenderingEngine": "Gecko",
+  "Browser": "Netscape Browser 8",
+  "Platforms": "Win 98SE+",
+  "Version": "1.7",
+  "CSSGrade": "A",
+  "Id": 8,
+  "ContentType": "Item",
+  "Modified": "\/Date(1362327548000)\/",
+  "Created": "\/Date(1362327548000)\/",
+  "CreatedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(8)/CreatedBy"
+    }
+  },
+  "CreatedById": 9,
+  "ModifiedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(8)/ModifiedBy"
+    }
+  },
+  "ModifiedById": 9,
+  "Owshiddenversion": 1,
+  "Version0": "1.0",
+  "Attachments": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(8)/Attachments"
+    }
+  },
+  "Path": "/dev/kpub/Lists/Browsers"
+}, {
+  "__metadata": {
+    "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(9)",
+    "etag": "W/\"1\"",
+    "type": "Microsoft.SharePoint.DataService.BrowsersItem"
+  },
+  "ContentTypeID": "0x01000C96B5148AE0E6488BD9B5BB2E969D98",
+  "RenderingEngine": "Gecko",
+  "Browser": "Netscape Navigator 9",
+  "Platforms": "Win 98+ / OSX.2+",
+  "Version": "1.8",
+  "CSSGrade": "A",
+  "Id": 9,
+  "ContentType": "Item",
+  "Modified": "\/Date(1362327548000)\/",
+  "Created": "\/Date(1362327548000)\/",
+  "CreatedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(9)/CreatedBy"
+    }
+  },
+  "CreatedById": 9,
+  "ModifiedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(9)/ModifiedBy"
+    }
+  },
+  "ModifiedById": 9,
+  "Owshiddenversion": 1,
+  "Version0": "1.0",
+  "Attachments": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(9)/Attachments"
+    }
+  },
+  "Path": "/dev/kpub/Lists/Browsers"
+}, {
+  "__metadata": {
+    "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(10)",
+    "etag": "W/\"1\"",
+    "type": "Microsoft.SharePoint.DataService.BrowsersItem"
+  },
+  "ContentTypeID": "0x01000C96B5148AE0E6488BD9B5BB2E969D98",
+  "RenderingEngine": "Gecko",
+  "Browser": "Mozilla 1.0",
+  "Platforms": "Win 95+ / OSX.1+",
+  "Version": "1",
+  "CSSGrade": "A",
+  "Id": 10,
+  "ContentType": "Item",
+  "Modified": "\/Date(1362327548000)\/",
+  "Created": "\/Date(1362327548000)\/",
+  "CreatedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(10)/CreatedBy"
+    }
+  },
+  "CreatedById": 9,
+  "ModifiedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(10)/ModifiedBy"
+    }
+  },
+  "ModifiedById": 9,
+  "Owshiddenversion": 1,
+  "Version0": "1.0",
+  "Attachments": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(10)/Attachments"
+    }
+  },
+  "Path": "/dev/kpub/Lists/Browsers"
+}, {
+  "__metadata": {
+    "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(11)",
+    "etag": "W/\"1\"",
+    "type": "Microsoft.SharePoint.DataService.BrowsersItem"
+  },
+  "ContentTypeID": "0x01000C96B5148AE0E6488BD9B5BB2E969D98",
+  "RenderingEngine": "Gecko",
+  "Browser": "Mozilla 1.1",
+  "Platforms": "Win 95+ / OSX.1+",
+  "Version": "1.1",
+  "CSSGrade": "A",
+  "Id": 11,
+  "ContentType": "Item",
+  "Modified": "\/Date(1362327548000)\/",
+  "Created": "\/Date(1362327548000)\/",
+  "CreatedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(11)/CreatedBy"
+    }
+  },
+  "CreatedById": 9,
+  "ModifiedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(11)/ModifiedBy"
+    }
+  },
+  "ModifiedById": 9,
+  "Owshiddenversion": 1,
+  "Version0": "1.0",
+  "Attachments": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(11)/Attachments"
+    }
+  },
+  "Path": "/dev/kpub/Lists/Browsers"
+}, {
+  "__metadata": {
+    "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(12)",
+    "etag": "W/\"1\"",
+    "type": "Microsoft.SharePoint.DataService.BrowsersItem"
+  },
+  "ContentTypeID": "0x01000C96B5148AE0E6488BD9B5BB2E969D98",
+  "RenderingEngine": "Gecko",
+  "Browser": "Mozilla 1.2",
+  "Platforms": "Win 95+ / OSX.1+",
+  "Version": "1.2",
+  "CSSGrade": "A",
+  "Id": 12,
+  "ContentType": "Item",
+  "Modified": "\/Date(1362327548000)\/",
+  "Created": "\/Date(1362327548000)\/",
+  "CreatedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(12)/CreatedBy"
+    }
+  },
+  "CreatedById": 9,
+  "ModifiedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(12)/ModifiedBy"
+    }
+  },
+  "ModifiedById": 9,
+  "Owshiddenversion": 1,
+  "Version0": "1.0",
+  "Attachments": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(12)/Attachments"
+    }
+  },
+  "Path": "/dev/kpub/Lists/Browsers"
+}, {
+  "__metadata": {
+    "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(13)",
+    "etag": "W/\"1\"",
+    "type": "Microsoft.SharePoint.DataService.BrowsersItem"
+  },
+  "ContentTypeID": "0x01000C96B5148AE0E6488BD9B5BB2E969D98",
+  "RenderingEngine": "Gecko",
+  "Browser": "Mozilla 1.3",
+  "Platforms": "Win 95+ / OSX.1+",
+  "Version": "1.3",
+  "CSSGrade": "A",
+  "Id": 13,
+  "ContentType": "Item",
+  "Modified": "\/Date(1362327548000)\/",
+  "Created": "\/Date(1362327548000)\/",
+  "CreatedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(13)/CreatedBy"
+    }
+  },
+  "CreatedById": 9,
+  "ModifiedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(13)/ModifiedBy"
+    }
+  },
+  "ModifiedById": 9,
+  "Owshiddenversion": 1,
+  "Version0": "1.0",
+  "Attachments": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(13)/Attachments"
+    }
+  },
+  "Path": "/dev/kpub/Lists/Browsers"
+}, {
+  "__metadata": {
+    "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(14)",
+    "etag": "W/\"1\"",
+    "type": "Microsoft.SharePoint.DataService.BrowsersItem"
+  },
+  "ContentTypeID": "0x01000C96B5148AE0E6488BD9B5BB2E969D98",
+  "RenderingEngine": "Gecko",
+  "Browser": "Mozilla 1.4",
+  "Platforms": "Win 95+ / OSX.1+",
+  "Version": "1.4",
+  "CSSGrade": "A",
+  "Id": 14,
+  "ContentType": "Item",
+  "Modified": "\/Date(1362327548000)\/",
+  "Created": "\/Date(1362327548000)\/",
+  "CreatedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(14)/CreatedBy"
+    }
+  },
+  "CreatedById": 9,
+  "ModifiedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(14)/ModifiedBy"
+    }
+  },
+  "ModifiedById": 9,
+  "Owshiddenversion": 1,
+  "Version0": "1.0",
+  "Attachments": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(14)/Attachments"
+    }
+  },
+  "Path": "/dev/kpub/Lists/Browsers"
+}, {
+  "__metadata": {
+    "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(15)",
+    "etag": "W/\"1\"",
+    "type": "Microsoft.SharePoint.DataService.BrowsersItem"
+  },
+  "ContentTypeID": "0x01000C96B5148AE0E6488BD9B5BB2E969D98",
+  "RenderingEngine": "Gecko",
+  "Browser": "Mozilla 1.5",
+  "Platforms": "Win 95+ / OSX.1+",
+  "Version": "1.5",
+  "CSSGrade": "A",
+  "Id": 15,
+  "ContentType": "Item",
+  "Modified": "\/Date(1362327549000)\/",
+  "Created": "\/Date(1362327549000)\/",
+  "CreatedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(15)/CreatedBy"
+    }
+  },
+  "CreatedById": 9,
+  "ModifiedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(15)/ModifiedBy"
+    }
+  },
+  "ModifiedById": 9,
+  "Owshiddenversion": 1,
+  "Version0": "1.0",
+  "Attachments": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(15)/Attachments"
+    }
+  },
+  "Path": "/dev/kpub/Lists/Browsers"
+}, {
+  "__metadata": {
+    "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(16)",
+    "etag": "W/\"1\"",
+    "type": "Microsoft.SharePoint.DataService.BrowsersItem"
+  },
+  "ContentTypeID": "0x01000C96B5148AE0E6488BD9B5BB2E969D98",
+  "RenderingEngine": "Gecko",
+  "Browser": "Mozilla 1.6",
+  "Platforms": "Win 95+ / OSX.1+",
+  "Version": "1.6",
+  "CSSGrade": "A",
+  "Id": 16,
+  "ContentType": "Item",
+  "Modified": "\/Date(1362327549000)\/",
+  "Created": "\/Date(1362327549000)\/",
+  "CreatedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(16)/CreatedBy"
+    }
+  },
+  "CreatedById": 9,
+  "ModifiedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(16)/ModifiedBy"
+    }
+  },
+  "ModifiedById": 9,
+  "Owshiddenversion": 1,
+  "Version0": "1.0",
+  "Attachments": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(16)/Attachments"
+    }
+  },
+  "Path": "/dev/kpub/Lists/Browsers"
+}, {
+  "__metadata": {
+    "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(17)",
+    "etag": "W/\"1\"",
+    "type": "Microsoft.SharePoint.DataService.BrowsersItem"
+  },
+  "ContentTypeID": "0x01000C96B5148AE0E6488BD9B5BB2E969D98",
+  "RenderingEngine": "Gecko",
+  "Browser": "Mozilla 1.7",
+  "Platforms": "Win 98+ / OSX.1+",
+  "Version": "1.7",
+  "CSSGrade": "A",
+  "Id": 17,
+  "ContentType": "Item",
+  "Modified": "\/Date(1362327549000)\/",
+  "Created": "\/Date(1362327549000)\/",
+  "CreatedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(17)/CreatedBy"
+    }
+  },
+  "CreatedById": 9,
+  "ModifiedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(17)/ModifiedBy"
+    }
+  },
+  "ModifiedById": 9,
+  "Owshiddenversion": 1,
+  "Version0": "1.0",
+  "Attachments": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(17)/Attachments"
+    }
+  },
+  "Path": "/dev/kpub/Lists/Browsers"
+}, {
+  "__metadata": {
+    "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(18)",
+    "etag": "W/\"1\"",
+    "type": "Microsoft.SharePoint.DataService.BrowsersItem"
+  },
+  "ContentTypeID": "0x01000C96B5148AE0E6488BD9B5BB2E969D98",
+  "RenderingEngine": "Gecko",
+  "Browser": "Mozilla 1.8",
+  "Platforms": "Win 98+ / OSX.1+",
+  "Version": "1.8",
+  "CSSGrade": "A",
+  "Id": 18,
+  "ContentType": "Item",
+  "Modified": "\/Date(1362327549000)\/",
+  "Created": "\/Date(1362327549000)\/",
+  "CreatedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(18)/CreatedBy"
+    }
+  },
+  "CreatedById": 9,
+  "ModifiedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(18)/ModifiedBy"
+    }
+  },
+  "ModifiedById": 9,
+  "Owshiddenversion": 1,
+  "Version0": "1.0",
+  "Attachments": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(18)/Attachments"
+    }
+  },
+  "Path": "/dev/kpub/Lists/Browsers"
+}, {
+  "__metadata": {
+    "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(19)",
+    "etag": "W/\"1\"",
+    "type": "Microsoft.SharePoint.DataService.BrowsersItem"
+  },
+  "ContentTypeID": "0x01000C96B5148AE0E6488BD9B5BB2E969D98",
+  "RenderingEngine": "Gecko",
+  "Browser": "Seamonkey 1.1",
+  "Platforms": "Win 98+ / OSX.2+",
+  "Version": "1.8",
+  "CSSGrade": "A",
+  "Id": 19,
+  "ContentType": "Item",
+  "Modified": "\/Date(1362327549000)\/",
+  "Created": "\/Date(1362327549000)\/",
+  "CreatedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(19)/CreatedBy"
+    }
+  },
+  "CreatedById": 9,
+  "ModifiedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(19)/ModifiedBy"
+    }
+  },
+  "ModifiedById": 9,
+  "Owshiddenversion": 1,
+  "Version0": "1.0",
+  "Attachments": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(19)/Attachments"
+    }
+  },
+  "Path": "/dev/kpub/Lists/Browsers"
+}, {
+  "__metadata": {
+    "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(20)",
+    "etag": "W/\"1\"",
+    "type": "Microsoft.SharePoint.DataService.BrowsersItem"
+  },
+  "ContentTypeID": "0x01000C96B5148AE0E6488BD9B5BB2E969D98",
+  "RenderingEngine": "Gecko",
+  "Browser": "Epiphany 2.20",
+  "Platforms": "Gnome",
+  "Version": "1.8",
+  "CSSGrade": "A",
+  "Id": 20,
+  "ContentType": "Item",
+  "Modified": "\/Date(1362327549000)\/",
+  "Created": "\/Date(1362327549000)\/",
+  "CreatedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(20)/CreatedBy"
+    }
+  },
+  "CreatedById": 9,
+  "ModifiedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(20)/ModifiedBy"
+    }
+  },
+  "ModifiedById": 9,
+  "Owshiddenversion": 1,
+  "Version0": "1.0",
+  "Attachments": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(20)/Attachments"
+    }
+  },
+  "Path": "/dev/kpub/Lists/Browsers"
+}, {
+  "__metadata": {
+    "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(21)",
+    "etag": "W/\"1\"",
+    "type": "Microsoft.SharePoint.DataService.BrowsersItem"
+  },
+  "ContentTypeID": "0x01000C96B5148AE0E6488BD9B5BB2E969D98",
+  "RenderingEngine": "KHTML",
+  "Browser": "Konqureror 3.1",
+  "Platforms": "KDE 3.1",
+  "Version": "3.1",
+  "CSSGrade": "C",
+  "Id": 21,
+  "ContentType": "Item",
+  "Modified": "\/Date(1362327550000)\/",
+  "Created": "\/Date(1362327550000)\/",
+  "CreatedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(21)/CreatedBy"
+    }
+  },
+  "CreatedById": 9,
+  "ModifiedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(21)/ModifiedBy"
+    }
+  },
+  "ModifiedById": 9,
+  "Owshiddenversion": 1,
+  "Version0": "1.0",
+  "Attachments": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(21)/Attachments"
+    }
+  },
+  "Path": "/dev/kpub/Lists/Browsers"
+}, {
+  "__metadata": {
+    "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(22)",
+    "etag": "W/\"1\"",
+    "type": "Microsoft.SharePoint.DataService.BrowsersItem"
+  },
+  "ContentTypeID": "0x01000C96B5148AE0E6488BD9B5BB2E969D98",
+  "RenderingEngine": "KHTML",
+  "Browser": "Konqureror 3.3",
+  "Platforms": "KDE 3.3",
+  "Version": "3.3",
+  "CSSGrade": "A",
+  "Id": 22,
+  "ContentType": "Item",
+  "Modified": "\/Date(1362327551000)\/",
+  "Created": "\/Date(1362327551000)\/",
+  "CreatedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(22)/CreatedBy"
+    }
+  },
+  "CreatedById": 9,
+  "ModifiedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(22)/ModifiedBy"
+    }
+  },
+  "ModifiedById": 9,
+  "Owshiddenversion": 1,
+  "Version0": "1.0",
+  "Attachments": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(22)/Attachments"
+    }
+  },
+  "Path": "/dev/kpub/Lists/Browsers"
+}, {
+  "__metadata": {
+    "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(23)",
+    "etag": "W/\"1\"",
+    "type": "Microsoft.SharePoint.DataService.BrowsersItem"
+  },
+  "ContentTypeID": "0x01000C96B5148AE0E6488BD9B5BB2E969D98",
+  "RenderingEngine": "KHTML",
+  "Browser": "Konqureror 3.5",
+  "Platforms": "KDE 3.5",
+  "Version": "3.5",
+  "CSSGrade": "A",
+  "Id": 23,
+  "ContentType": "Item",
+  "Modified": "\/Date(1362327551000)\/",
+  "Created": "\/Date(1362327551000)\/",
+  "CreatedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(23)/CreatedBy"
+    }
+  },
+  "CreatedById": 9,
+  "ModifiedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(23)/ModifiedBy"
+    }
+  },
+  "ModifiedById": 9,
+  "Owshiddenversion": 1,
+  "Version0": "1.0",
+  "Attachments": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(23)/Attachments"
+    }
+  },
+  "Path": "/dev/kpub/Lists/Browsers"
+}, {
+  "__metadata": {
+    "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(24)",
+    "etag": "W/\"1\"",
+    "type": "Microsoft.SharePoint.DataService.BrowsersItem"
+  },
+  "ContentTypeID": "0x01000C96B5148AE0E6488BD9B5BB2E969D98",
+  "RenderingEngine": "Misc",
+  "Browser": "NetFront 3.1",
+  "Platforms": "Embedded devices",
+  "Version": "-",
+  "CSSGrade": "C",
+  "Id": 24,
+  "ContentType": "Item",
+  "Modified": "\/Date(1362327551000)\/",
+  "Created": "\/Date(1362327551000)\/",
+  "CreatedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(24)/CreatedBy"
+    }
+  },
+  "CreatedById": 9,
+  "ModifiedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(24)/ModifiedBy"
+    }
+  },
+  "ModifiedById": 9,
+  "Owshiddenversion": 1,
+  "Version0": "1.0",
+  "Attachments": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(24)/Attachments"
+    }
+  },
+  "Path": "/dev/kpub/Lists/Browsers"
+}, {
+  "__metadata": {
+    "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(25)",
+    "etag": "W/\"1\"",
+    "type": "Microsoft.SharePoint.DataService.BrowsersItem"
+  },
+  "ContentTypeID": "0x01000C96B5148AE0E6488BD9B5BB2E969D98",
+  "RenderingEngine": "Misc",
+  "Browser": "NetFront 3.4",
+  "Platforms": "Embedded devices",
+  "Version": "-",
+  "CSSGrade": "A",
+  "Id": 25,
+  "ContentType": "Item",
+  "Modified": "\/Date(1362327552000)\/",
+  "Created": "\/Date(1362327552000)\/",
+  "CreatedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(25)/CreatedBy"
+    }
+  },
+  "CreatedById": 9,
+  "ModifiedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(25)/ModifiedBy"
+    }
+  },
+  "ModifiedById": 9,
+  "Owshiddenversion": 1,
+  "Version0": "1.0",
+  "Attachments": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(25)/Attachments"
+    }
+  },
+  "Path": "/dev/kpub/Lists/Browsers"
+}, {
+  "__metadata": {
+    "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(26)",
+    "etag": "W/\"1\"",
+    "type": "Microsoft.SharePoint.DataService.BrowsersItem"
+  },
+  "ContentTypeID": "0x01000C96B5148AE0E6488BD9B5BB2E969D98",
+  "RenderingEngine": "Misc",
+  "Browser": "Dillo 0.8",
+  "Platforms": "Embedded devices",
+  "Version": "-",
+  "CSSGrade": "X",
+  "Id": 26,
+  "ContentType": "Item",
+  "Modified": "\/Date(1362327552000)\/",
+  "Created": "\/Date(1362327552000)\/",
+  "CreatedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(26)/CreatedBy"
+    }
+  },
+  "CreatedById": 9,
+  "ModifiedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(26)/ModifiedBy"
+    }
+  },
+  "ModifiedById": 9,
+  "Owshiddenversion": 1,
+  "Version0": "1.0",
+  "Attachments": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(26)/Attachments"
+    }
+  },
+  "Path": "/dev/kpub/Lists/Browsers"
+}, {
+  "__metadata": {
+    "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(27)",
+    "etag": "W/\"1\"",
+    "type": "Microsoft.SharePoint.DataService.BrowsersItem"
+  },
+  "ContentTypeID": "0x01000C96B5148AE0E6488BD9B5BB2E969D98",
+  "RenderingEngine": "Misc",
+  "Browser": "Links",
+  "Platforms": "Text only",
+  "Version": "-",
+  "CSSGrade": "X",
+  "Id": 27,
+  "ContentType": "Item",
+  "Modified": "\/Date(1362327552000)\/",
+  "Created": "\/Date(1362327552000)\/",
+  "CreatedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(27)/CreatedBy"
+    }
+  },
+  "CreatedById": 9,
+  "ModifiedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(27)/ModifiedBy"
+    }
+  },
+  "ModifiedById": 9,
+  "Owshiddenversion": 1,
+  "Version0": "1.0",
+  "Attachments": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(27)/Attachments"
+    }
+  },
+  "Path": "/dev/kpub/Lists/Browsers"
+}, {
+  "__metadata": {
+    "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(28)",
+    "etag": "W/\"1\"",
+    "type": "Microsoft.SharePoint.DataService.BrowsersItem"
+  },
+  "ContentTypeID": "0x01000C96B5148AE0E6488BD9B5BB2E969D98",
+  "RenderingEngine": "Misc",
+  "Browser": "Lynx",
+  "Platforms": "Text only",
+  "Version": "-",
+  "CSSGrade": "X",
+  "Id": 28,
+  "ContentType": "Item",
+  "Modified": "\/Date(1362327552000)\/",
+  "Created": "\/Date(1362327552000)\/",
+  "CreatedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(28)/CreatedBy"
+    }
+  },
+  "CreatedById": 9,
+  "ModifiedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(28)/ModifiedBy"
+    }
+  },
+  "ModifiedById": 9,
+  "Owshiddenversion": 1,
+  "Version0": "1.0",
+  "Attachments": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(28)/Attachments"
+    }
+  },
+  "Path": "/dev/kpub/Lists/Browsers"
+}, {
+  "__metadata": {
+    "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(29)",
+    "etag": "W/\"1\"",
+    "type": "Microsoft.SharePoint.DataService.BrowsersItem"
+  },
+  "ContentTypeID": "0x01000C96B5148AE0E6488BD9B5BB2E969D98",
+  "RenderingEngine": "Misc",
+  "Browser": "IE Mobile",
+  "Platforms": "Windows Mobile 6",
+  "Version": "-",
+  "CSSGrade": "C",
+  "Id": 29,
+  "ContentType": "Item",
+  "Modified": "\/Date(1362327552000)\/",
+  "Created": "\/Date(1362327552000)\/",
+  "CreatedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(29)/CreatedBy"
+    }
+  },
+  "CreatedById": 9,
+  "ModifiedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(29)/ModifiedBy"
+    }
+  },
+  "ModifiedById": 9,
+  "Owshiddenversion": 1,
+  "Version0": "1.0",
+  "Attachments": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(29)/Attachments"
+    }
+  },
+  "Path": "/dev/kpub/Lists/Browsers"
+}, {
+  "__metadata": {
+    "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(30)",
+    "etag": "W/\"1\"",
+    "type": "Microsoft.SharePoint.DataService.BrowsersItem"
+  },
+  "ContentTypeID": "0x01000C96B5148AE0E6488BD9B5BB2E969D98",
+  "RenderingEngine": "Misc",
+  "Browser": "PSP browser",
+  "Platforms": "PSP",
+  "Version": "-",
+  "CSSGrade": "C",
+  "Id": 30,
+  "ContentType": "Item",
+  "Modified": "\/Date(1362327553000)\/",
+  "Created": "\/Date(1362327553000)\/",
+  "CreatedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(30)/CreatedBy"
+    }
+  },
+  "CreatedById": 9,
+  "ModifiedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(30)/ModifiedBy"
+    }
+  },
+  "ModifiedById": 9,
+  "Owshiddenversion": 1,
+  "Version0": "1.0",
+  "Attachments": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(30)/Attachments"
+    }
+  },
+  "Path": "/dev/kpub/Lists/Browsers"
+}, {
+  "__metadata": {
+    "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(31)",
+    "etag": "W/\"1\"",
+    "type": "Microsoft.SharePoint.DataService.BrowsersItem"
+  },
+  "ContentTypeID": "0x01000C96B5148AE0E6488BD9B5BB2E969D98",
+  "RenderingEngine": "Other browsers",
+  "Browser": "All others",
+  "Platforms": "-",
+  "Version": "-",
+  "CSSGrade": "U",
+  "Id": 31,
+  "ContentType": "Item",
+  "Modified": "\/Date(1362327553000)\/",
+  "Created": "\/Date(1362327553000)\/",
+  "CreatedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(31)/CreatedBy"
+    }
+  },
+  "CreatedById": 9,
+  "ModifiedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(31)/ModifiedBy"
+    }
+  },
+  "ModifiedById": 9,
+  "Owshiddenversion": 1,
+  "Version0": "1.0",
+  "Attachments": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(31)/Attachments"
+    }
+  },
+  "Path": "/dev/kpub/Lists/Browsers"
+}, {
+  "__metadata": {
+    "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(32)",
+    "etag": "W/\"1\"",
+    "type": "Microsoft.SharePoint.DataService.BrowsersItem"
+  },
+  "ContentTypeID": "0x01000C96B5148AE0E6488BD9B5BB2E969D98",
+  "RenderingEngine": "Presto",
+  "Browser": "Opera 7.0",
+  "Platforms": "Win 95+ / OSX.1+",
+  "Version": "-",
+  "CSSGrade": "A",
+  "Id": 32,
+  "ContentType": "Item",
+  "Modified": "\/Date(1362327553000)\/",
+  "Created": "\/Date(1362327553000)\/",
+  "CreatedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(32)/CreatedBy"
+    }
+  },
+  "CreatedById": 9,
+  "ModifiedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(32)/ModifiedBy"
+    }
+  },
+  "ModifiedById": 9,
+  "Owshiddenversion": 1,
+  "Version0": "1.0",
+  "Attachments": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(32)/Attachments"
+    }
+  },
+  "Path": "/dev/kpub/Lists/Browsers"
+}, {
+  "__metadata": {
+    "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(33)",
+    "etag": "W/\"1\"",
+    "type": "Microsoft.SharePoint.DataService.BrowsersItem"
+  },
+  "ContentTypeID": "0x01000C96B5148AE0E6488BD9B5BB2E969D98",
+  "RenderingEngine": "Presto",
+  "Browser": "Opera 7.5",
+  "Platforms": "Win 95+ / OSX.2+",
+  "Version": "-",
+  "CSSGrade": "A",
+  "Id": 33,
+  "ContentType": "Item",
+  "Modified": "\/Date(1362327553000)\/",
+  "Created": "\/Date(1362327553000)\/",
+  "CreatedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(33)/CreatedBy"
+    }
+  },
+  "CreatedById": 9,
+  "ModifiedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(33)/ModifiedBy"
+    }
+  },
+  "ModifiedById": 9,
+  "Owshiddenversion": 1,
+  "Version0": "1.0",
+  "Attachments": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(33)/Attachments"
+    }
+  },
+  "Path": "/dev/kpub/Lists/Browsers"
+}, {
+  "__metadata": {
+    "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(34)",
+    "etag": "W/\"1\"",
+    "type": "Microsoft.SharePoint.DataService.BrowsersItem"
+  },
+  "ContentTypeID": "0x01000C96B5148AE0E6488BD9B5BB2E969D98",
+  "RenderingEngine": "Presto",
+  "Browser": "Opera 8.0",
+  "Platforms": "Win 95+ / OSX.2+",
+  "Version": "-",
+  "CSSGrade": "A",
+  "Id": 34,
+  "ContentType": "Item",
+  "Modified": "\/Date(1362327553000)\/",
+  "Created": "\/Date(1362327553000)\/",
+  "CreatedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(34)/CreatedBy"
+    }
+  },
+  "CreatedById": 9,
+  "ModifiedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(34)/ModifiedBy"
+    }
+  },
+  "ModifiedById": 9,
+  "Owshiddenversion": 1,
+  "Version0": "1.0",
+  "Attachments": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(34)/Attachments"
+    }
+  },
+  "Path": "/dev/kpub/Lists/Browsers"
+}, {
+  "__metadata": {
+    "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(35)",
+    "etag": "W/\"1\"",
+    "type": "Microsoft.SharePoint.DataService.BrowsersItem"
+  },
+  "ContentTypeID": "0x01000C96B5148AE0E6488BD9B5BB2E969D98",
+  "RenderingEngine": "Presto",
+  "Browser": "Opera 8.5",
+  "Platforms": "Win 95+ / OSX.2+",
+  "Version": "-",
+  "CSSGrade": "A",
+  "Id": 35,
+  "ContentType": "Item",
+  "Modified": "\/Date(1362327554000)\/",
+  "Created": "\/Date(1362327554000)\/",
+  "CreatedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(35)/CreatedBy"
+    }
+  },
+  "CreatedById": 9,
+  "ModifiedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(35)/ModifiedBy"
+    }
+  },
+  "ModifiedById": 9,
+  "Owshiddenversion": 1,
+  "Version0": "1.0",
+  "Attachments": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(35)/Attachments"
+    }
+  },
+  "Path": "/dev/kpub/Lists/Browsers"
+}, {
+  "__metadata": {
+    "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(36)",
+    "etag": "W/\"1\"",
+    "type": "Microsoft.SharePoint.DataService.BrowsersItem"
+  },
+  "ContentTypeID": "0x01000C96B5148AE0E6488BD9B5BB2E969D98",
+  "RenderingEngine": "Presto",
+  "Browser": "Opera 9.0",
+  "Platforms": "Win 95+ / OSX.3+",
+  "Version": "-",
+  "CSSGrade": "A",
+  "Id": 36,
+  "ContentType": "Item",
+  "Modified": "\/Date(1362327554000)\/",
+  "Created": "\/Date(1362327554000)\/",
+  "CreatedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(36)/CreatedBy"
+    }
+  },
+  "CreatedById": 9,
+  "ModifiedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(36)/ModifiedBy"
+    }
+  },
+  "ModifiedById": 9,
+  "Owshiddenversion": 1,
+  "Version0": "1.0",
+  "Attachments": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(36)/Attachments"
+    }
+  },
+  "Path": "/dev/kpub/Lists/Browsers"
+}, {
+  "__metadata": {
+    "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(37)",
+    "etag": "W/\"1\"",
+    "type": "Microsoft.SharePoint.DataService.BrowsersItem"
+  },
+  "ContentTypeID": "0x01000C96B5148AE0E6488BD9B5BB2E969D98",
+  "RenderingEngine": "Presto",
+  "Browser": "Opera 9.2",
+  "Platforms": "Win 88+ / OSX.3+",
+  "Version": "-",
+  "CSSGrade": "A",
+  "Id": 37,
+  "ContentType": "Item",
+  "Modified": "\/Date(1362327554000)\/",
+  "Created": "\/Date(1362327554000)\/",
+  "CreatedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(37)/CreatedBy"
+    }
+  },
+  "CreatedById": 9,
+  "ModifiedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(37)/ModifiedBy"
+    }
+  },
+  "ModifiedById": 9,
+  "Owshiddenversion": 1,
+  "Version0": "1.0",
+  "Attachments": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(37)/Attachments"
+    }
+  },
+  "Path": "/dev/kpub/Lists/Browsers"
+}, {
+  "__metadata": {
+    "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(38)",
+    "etag": "W/\"1\"",
+    "type": "Microsoft.SharePoint.DataService.BrowsersItem"
+  },
+  "ContentTypeID": "0x01000C96B5148AE0E6488BD9B5BB2E969D98",
+  "RenderingEngine": "Presto",
+  "Browser": "Opera 9.5",
+  "Platforms": "Win 88+ / OSX.3+",
+  "Version": "-",
+  "CSSGrade": "A",
+  "Id": 38,
+  "ContentType": "Item",
+  "Modified": "\/Date(1362327554000)\/",
+  "Created": "\/Date(1362327554000)\/",
+  "CreatedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(38)/CreatedBy"
+    }
+  },
+  "CreatedById": 9,
+  "ModifiedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(38)/ModifiedBy"
+    }
+  },
+  "ModifiedById": 9,
+  "Owshiddenversion": 1,
+  "Version0": "1.0",
+  "Attachments": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(38)/Attachments"
+    }
+  },
+  "Path": "/dev/kpub/Lists/Browsers"
+}, {
+  "__metadata": {
+    "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(39)",
+    "etag": "W/\"1\"",
+    "type": "Microsoft.SharePoint.DataService.BrowsersItem"
+  },
+  "ContentTypeID": "0x01000C96B5148AE0E6488BD9B5BB2E969D98",
+  "RenderingEngine": "Presto",
+  "Browser": "Opera for Wii",
+  "Platforms": "Wii",
+  "Version": "-",
+  "CSSGrade": "A",
+  "Id": 39,
+  "ContentType": "Item",
+  "Modified": "\/Date(1362327555000)\/",
+  "Created": "\/Date(1362327555000)\/",
+  "CreatedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(39)/CreatedBy"
+    }
+  },
+  "CreatedById": 9,
+  "ModifiedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(39)/ModifiedBy"
+    }
+  },
+  "ModifiedById": 9,
+  "Owshiddenversion": 1,
+  "Version0": "1.0",
+  "Attachments": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(39)/Attachments"
+    }
+  },
+  "Path": "/dev/kpub/Lists/Browsers"
+}, {
+  "__metadata": {
+    "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(40)",
+    "etag": "W/\"1\"",
+    "type": "Microsoft.SharePoint.DataService.BrowsersItem"
+  },
+  "ContentTypeID": "0x01000C96B5148AE0E6488BD9B5BB2E969D98",
+  "RenderingEngine": "Presto",
+  "Browser": "Nokia N800",
+  "Platforms": "N800",
+  "Version": "-",
+  "CSSGrade": "A",
+  "Id": 40,
+  "ContentType": "Item",
+  "Modified": "\/Date(1362327555000)\/",
+  "Created": "\/Date(1362327555000)\/",
+  "CreatedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(40)/CreatedBy"
+    }
+  },
+  "CreatedById": 9,
+  "ModifiedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(40)/ModifiedBy"
+    }
+  },
+  "ModifiedById": 9,
+  "Owshiddenversion": 1,
+  "Version0": "1.0",
+  "Attachments": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(40)/Attachments"
+    }
+  },
+  "Path": "/dev/kpub/Lists/Browsers"
+}, {
+  "__metadata": {
+    "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(41)",
+    "etag": "W/\"1\"",
+    "type": "Microsoft.SharePoint.DataService.BrowsersItem"
+  },
+  "ContentTypeID": "0x01000C96B5148AE0E6488BD9B5BB2E969D98",
+  "RenderingEngine": "Presto",
+  "Browser": "Nintendo DS browser",
+  "Platforms": "Nintendo DS",
+  "Version": "8.5",
+  "CSSGrade": "C/A1",
+  "Id": 41,
+  "ContentType": "Item",
+  "Modified": "\/Date(1362327555000)\/",
+  "Created": "\/Date(1362327555000)\/",
+  "CreatedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(41)/CreatedBy"
+    }
+  },
+  "CreatedById": 9,
+  "ModifiedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(41)/ModifiedBy"
+    }
+  },
+  "ModifiedById": 9,
+  "Owshiddenversion": 1,
+  "Version0": "1.0",
+  "Attachments": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(41)/Attachments"
+    }
+  },
+  "Path": "/dev/kpub/Lists/Browsers"
+}, {
+  "__metadata": {
+    "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(42)",
+    "etag": "W/\"1\"",
+    "type": "Microsoft.SharePoint.DataService.BrowsersItem"
+  },
+  "ContentTypeID": "0x01000C96B5148AE0E6488BD9B5BB2E969D98",
+  "RenderingEngine": "Tasman",
+  "Browser": "Internet Explorer 4.5",
+  "Platforms": "Mac OS 8-9",
+  "Version": "-",
+  "CSSGrade": "X",
+  "Id": 42,
+  "ContentType": "Item",
+  "Modified": "\/Date(1362327556000)\/",
+  "Created": "\/Date(1362327556000)\/",
+  "CreatedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(42)/CreatedBy"
+    }
+  },
+  "CreatedById": 9,
+  "ModifiedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(42)/ModifiedBy"
+    }
+  },
+  "ModifiedById": 9,
+  "Owshiddenversion": 1,
+  "Version0": "1.0",
+  "Attachments": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(42)/Attachments"
+    }
+  },
+  "Path": "/dev/kpub/Lists/Browsers"
+}, {
+  "__metadata": {
+    "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(43)",
+    "etag": "W/\"1\"",
+    "type": "Microsoft.SharePoint.DataService.BrowsersItem"
+  },
+  "ContentTypeID": "0x01000C96B5148AE0E6488BD9B5BB2E969D98",
+  "RenderingEngine": "Tasman",
+  "Browser": "Internet Explorer 5.1",
+  "Platforms": "Mac OS 7.6-9",
+  "Version": "1",
+  "CSSGrade": "C",
+  "Id": 43,
+  "ContentType": "Item",
+  "Modified": "\/Date(1362327558000)\/",
+  "Created": "\/Date(1362327558000)\/",
+  "CreatedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(43)/CreatedBy"
+    }
+  },
+  "CreatedById": 9,
+  "ModifiedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(43)/ModifiedBy"
+    }
+  },
+  "ModifiedById": 9,
+  "Owshiddenversion": 1,
+  "Version0": "1.0",
+  "Attachments": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(43)/Attachments"
+    }
+  },
+  "Path": "/dev/kpub/Lists/Browsers"
+}, {
+  "__metadata": {
+    "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(44)",
+    "etag": "W/\"1\"",
+    "type": "Microsoft.SharePoint.DataService.BrowsersItem"
+  },
+  "ContentTypeID": "0x01000C96B5148AE0E6488BD9B5BB2E969D98",
+  "RenderingEngine": "Tasman",
+  "Browser": "Internet Explorer 5.2",
+  "Platforms": "Mac OS 8-X",
+  "Version": "1",
+  "CSSGrade": "C",
+  "Id": 44,
+  "ContentType": "Item",
+  "Modified": "\/Date(1362327558000)\/",
+  "Created": "\/Date(1362327558000)\/",
+  "CreatedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(44)/CreatedBy"
+    }
+  },
+  "CreatedById": 9,
+  "ModifiedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(44)/ModifiedBy"
+    }
+  },
+  "ModifiedById": 9,
+  "Owshiddenversion": 1,
+  "Version0": "1.0",
+  "Attachments": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(44)/Attachments"
+    }
+  },
+  "Path": "/dev/kpub/Lists/Browsers"
+}, {
+  "__metadata": {
+    "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(45)",
+    "etag": "W/\"1\"",
+    "type": "Microsoft.SharePoint.DataService.BrowsersItem"
+  },
+  "ContentTypeID": "0x01000C96B5148AE0E6488BD9B5BB2E969D98",
+  "RenderingEngine": "Trident",
+  "Browser": "Internet Explorer 4.0",
+  "Platforms": "Win 95+",
+  "Version": "4",
+  "CSSGrade": "X",
+  "Id": 45,
+  "ContentType": "Item",
+  "Modified": "\/Date(1362327558000)\/",
+  "Created": "\/Date(1362327558000)\/",
+  "CreatedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(45)/CreatedBy"
+    }
+  },
+  "CreatedById": 9,
+  "ModifiedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(45)/ModifiedBy"
+    }
+  },
+  "ModifiedById": 9,
+  "Owshiddenversion": 1,
+  "Version0": "1.0",
+  "Attachments": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(45)/Attachments"
+    }
+  },
+  "Path": "/dev/kpub/Lists/Browsers"
+}, {
+  "__metadata": {
+    "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(46)",
+    "etag": "W/\"1\"",
+    "type": "Microsoft.SharePoint.DataService.BrowsersItem"
+  },
+  "ContentTypeID": "0x01000C96B5148AE0E6488BD9B5BB2E969D98",
+  "RenderingEngine": "Trident",
+  "Browser": "Internet Explorer 5.0",
+  "Platforms": "Win 95+",
+  "Version": "5",
+  "CSSGrade": "C",
+  "Id": 46,
+  "ContentType": "Item",
+  "Modified": "\/Date(1362327558000)\/",
+  "Created": "\/Date(1362327558000)\/",
+  "CreatedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(46)/CreatedBy"
+    }
+  },
+  "CreatedById": 9,
+  "ModifiedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(46)/ModifiedBy"
+    }
+  },
+  "ModifiedById": 9,
+  "Owshiddenversion": 1,
+  "Version0": "1.0",
+  "Attachments": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(46)/Attachments"
+    }
+  },
+  "Path": "/dev/kpub/Lists/Browsers"
+}, {
+  "__metadata": {
+    "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(47)",
+    "etag": "W/\"1\"",
+    "type": "Microsoft.SharePoint.DataService.BrowsersItem"
+  },
+  "ContentTypeID": "0x01000C96B5148AE0E6488BD9B5BB2E969D98",
+  "RenderingEngine": "Trident",
+  "Browser": "Internet Explorer 5.5",
+  "Platforms": "Win 95+",
+  "Version": "5.5",
+  "CSSGrade": "A",
+  "Id": 47,
+  "ContentType": "Item",
+  "Modified": "\/Date(1362327558000)\/",
+  "Created": "\/Date(1362327558000)\/",
+  "CreatedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(47)/CreatedBy"
+    }
+  },
+  "CreatedById": 9,
+  "ModifiedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(47)/ModifiedBy"
+    }
+  },
+  "ModifiedById": 9,
+  "Owshiddenversion": 1,
+  "Version0": "1.0",
+  "Attachments": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(47)/Attachments"
+    }
+  },
+  "Path": "/dev/kpub/Lists/Browsers"
+}, {
+  "__metadata": {
+    "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(48)",
+    "etag": "W/\"1\"",
+    "type": "Microsoft.SharePoint.DataService.BrowsersItem"
+  },
+  "ContentTypeID": "0x01000C96B5148AE0E6488BD9B5BB2E969D98",
+  "RenderingEngine": "Trident",
+  "Browser": "Internet Explorer 6",
+  "Platforms": "Win 98+",
+  "Version": "6",
+  "CSSGrade": "A",
+  "Id": 48,
+  "ContentType": "Item",
+  "Modified": "\/Date(1362327558000)\/",
+  "Created": "\/Date(1362327558000)\/",
+  "CreatedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(48)/CreatedBy"
+    }
+  },
+  "CreatedById": 9,
+  "ModifiedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(48)/ModifiedBy"
+    }
+  },
+  "ModifiedById": 9,
+  "Owshiddenversion": 1,
+  "Version0": "1.0",
+  "Attachments": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(48)/Attachments"
+    }
+  },
+  "Path": "/dev/kpub/Lists/Browsers"
+}, {
+  "__metadata": {
+    "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(49)",
+    "etag": "W/\"1\"",
+    "type": "Microsoft.SharePoint.DataService.BrowsersItem"
+  },
+  "ContentTypeID": "0x01000C96B5148AE0E6488BD9B5BB2E969D98",
+  "RenderingEngine": "Trident",
+  "Browser": "Internet Explorer 7",
+  "Platforms": "Win XP SP2+",
+  "Version": "7",
+  "CSSGrade": "A",
+  "Id": 49,
+  "ContentType": "Item",
+  "Modified": "\/Date(1362327558000)\/",
+  "Created": "\/Date(1362327558000)\/",
+  "CreatedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(49)/CreatedBy"
+    }
+  },
+  "CreatedById": 9,
+  "ModifiedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(49)/ModifiedBy"
+    }
+  },
+  "ModifiedById": 9,
+  "Owshiddenversion": 1,
+  "Version0": "1.0",
+  "Attachments": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(49)/Attachments"
+    }
+  },
+  "Path": "/dev/kpub/Lists/Browsers"
+}, {
+  "__metadata": {
+    "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(50)",
+    "etag": "W/\"1\"",
+    "type": "Microsoft.SharePoint.DataService.BrowsersItem"
+  },
+  "ContentTypeID": "0x01000C96B5148AE0E6488BD9B5BB2E969D98",
+  "RenderingEngine": "Trident",
+  "Browser": "AOL browser (AOL desktop)",
+  "Platforms": "Win XP",
+  "Version": "6",
+  "CSSGrade": "A",
+  "Id": 50,
+  "ContentType": "Item",
+  "Modified": "\/Date(1362327558000)\/",
+  "Created": "\/Date(1362327558000)\/",
+  "CreatedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(50)/CreatedBy"
+    }
+  },
+  "CreatedById": 9,
+  "ModifiedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(50)/ModifiedBy"
+    }
+  },
+  "ModifiedById": 9,
+  "Owshiddenversion": 1,
+  "Version0": "1.0",
+  "Attachments": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(50)/Attachments"
+    }
+  },
+  "Path": "/dev/kpub/Lists/Browsers"
+}, {
+  "__metadata": {
+    "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(51)",
+    "etag": "W/\"1\"",
+    "type": "Microsoft.SharePoint.DataService.BrowsersItem"
+  },
+  "ContentTypeID": "0x01000C96B5148AE0E6488BD9B5BB2E969D98",
+  "RenderingEngine": "Webkit",
+  "Browser": "Safari 1.2",
+  "Platforms": "OSX.3",
+  "Version": "125.5",
+  "CSSGrade": "A",
+  "Id": 51,
+  "ContentType": "Item",
+  "Modified": "\/Date(1362327558000)\/",
+  "Created": "\/Date(1362327558000)\/",
+  "CreatedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(51)/CreatedBy"
+    }
+  },
+  "CreatedById": 9,
+  "ModifiedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(51)/ModifiedBy"
+    }
+  },
+  "ModifiedById": 9,
+  "Owshiddenversion": 1,
+  "Version0": "1.0",
+  "Attachments": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(51)/Attachments"
+    }
+  },
+  "Path": "/dev/kpub/Lists/Browsers"
+}, {
+  "__metadata": {
+    "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(52)",
+    "etag": "W/\"1\"",
+    "type": "Microsoft.SharePoint.DataService.BrowsersItem"
+  },
+  "ContentTypeID": "0x01000C96B5148AE0E6488BD9B5BB2E969D98",
+  "RenderingEngine": "Webkit",
+  "Browser": "Safari 1.3",
+  "Platforms": "OSX.3",
+  "Version": "312.8",
+  "CSSGrade": "A",
+  "Id": 52,
+  "ContentType": "Item",
+  "Modified": "\/Date(1362327559000)\/",
+  "Created": "\/Date(1362327559000)\/",
+  "CreatedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(52)/CreatedBy"
+    }
+  },
+  "CreatedById": 9,
+  "ModifiedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(52)/ModifiedBy"
+    }
+  },
+  "ModifiedById": 9,
+  "Owshiddenversion": 1,
+  "Version0": "1.0",
+  "Attachments": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(52)/Attachments"
+    }
+  },
+  "Path": "/dev/kpub/Lists/Browsers"
+}, {
+  "__metadata": {
+    "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(53)",
+    "etag": "W/\"1\"",
+    "type": "Microsoft.SharePoint.DataService.BrowsersItem"
+  },
+  "ContentTypeID": "0x01000C96B5148AE0E6488BD9B5BB2E969D98",
+  "RenderingEngine": "Webkit",
+  "Browser": "Safari 2.0",
+  "Platforms": "OSX.4+",
+  "Version": "419.3",
+  "CSSGrade": "A",
+  "Id": 53,
+  "ContentType": "Item",
+  "Modified": "\/Date(1362327560000)\/",
+  "Created": "\/Date(1362327560000)\/",
+  "CreatedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(53)/CreatedBy"
+    }
+  },
+  "CreatedById": 9,
+  "ModifiedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(53)/ModifiedBy"
+    }
+  },
+  "ModifiedById": 9,
+  "Owshiddenversion": 1,
+  "Version0": "1.0",
+  "Attachments": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(53)/Attachments"
+    }
+  },
+  "Path": "/dev/kpub/Lists/Browsers"
+}, {
+  "__metadata": {
+    "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(54)",
+    "etag": "W/\"1\"",
+    "type": "Microsoft.SharePoint.DataService.BrowsersItem"
+  },
+  "ContentTypeID": "0x01000C96B5148AE0E6488BD9B5BB2E969D98",
+  "RenderingEngine": "Webkit",
+  "Browser": "Safari 3.0",
+  "Platforms": "OSX.4+",
+  "Version": "522.1",
+  "CSSGrade": "A",
+  "Id": 54,
+  "ContentType": "Item",
+  "Modified": "\/Date(1362327560000)\/",
+  "Created": "\/Date(1362327560000)\/",
+  "CreatedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(54)/CreatedBy"
+    }
+  },
+  "CreatedById": 9,
+  "ModifiedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(54)/ModifiedBy"
+    }
+  },
+  "ModifiedById": 9,
+  "Owshiddenversion": 1,
+  "Version0": "1.0",
+  "Attachments": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(54)/Attachments"
+    }
+  },
+  "Path": "/dev/kpub/Lists/Browsers"
+}, {
+  "__metadata": {
+    "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(55)",
+    "etag": "W/\"1\"",
+    "type": "Microsoft.SharePoint.DataService.BrowsersItem"
+  },
+  "ContentTypeID": "0x01000C96B5148AE0E6488BD9B5BB2E969D98",
+  "RenderingEngine": "Webkit",
+  "Browser": "OmniWeb 5.5",
+  "Platforms": "OSX.4+",
+  "Version": "420",
+  "CSSGrade": "A",
+  "Id": 55,
+  "ContentType": "Item",
+  "Modified": "\/Date(1362327560000)\/",
+  "Created": "\/Date(1362327560000)\/",
+  "CreatedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(55)/CreatedBy"
+    }
+  },
+  "CreatedById": 9,
+  "ModifiedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(55)/ModifiedBy"
+    }
+  },
+  "ModifiedById": 9,
+  "Owshiddenversion": 1,
+  "Version0": "1.0",
+  "Attachments": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(55)/Attachments"
+    }
+  },
+  "Path": "/dev/kpub/Lists/Browsers"
+}, {
+  "__metadata": {
+    "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(56)",
+    "etag": "W/\"1\"",
+    "type": "Microsoft.SharePoint.DataService.BrowsersItem"
+  },
+  "ContentTypeID": "0x01000C96B5148AE0E6488BD9B5BB2E969D98",
+  "RenderingEngine": "Webkit",
+  "Browser": "iPod Touch / iPhone",
+  "Platforms": "iPod",
+  "Version": "420.1",
+  "CSSGrade": "A",
+  "Id": 56,
+  "ContentType": "Item",
+  "Modified": "\/Date(1362327560000)\/",
+  "Created": "\/Date(1362327560000)\/",
+  "CreatedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(56)/CreatedBy"
+    }
+  },
+  "CreatedById": 9,
+  "ModifiedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(56)/ModifiedBy"
+    }
+  },
+  "ModifiedById": 9,
+  "Owshiddenversion": 1,
+  "Version0": "1.0",
+  "Attachments": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(56)/Attachments"
+    }
+  },
+  "Path": "/dev/kpub/Lists/Browsers"
+}, {
+  "__metadata": {
+    "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(57)",
+    "etag": "W/\"1\"",
+    "type": "Microsoft.SharePoint.DataService.BrowsersItem"
+  },
+  "ContentTypeID": "0x01000C96B5148AE0E6488BD9B5BB2E969D98",
+  "RenderingEngine": "Webkit",
+  "Browser": "S60",
+  "Platforms": "S60",
+  "Version": "413",
+  "CSSGrade": "A",
+  "Id": 57,
+  "ContentType": "Item",
+  "Modified": "\/Date(1362327560000)\/",
+  "Created": "\/Date(1362327560000)\/",
+  "CreatedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(57)/CreatedBy"
+    }
+  },
+  "CreatedById": 9,
+  "ModifiedBy": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(57)/ModifiedBy"
+    }
+  },
+  "ModifiedById": 9,
+  "Owshiddenversion": 1,
+  "Version0": "1.0",
+  "Attachments": {
+    "__deferred": {
+      "uri": "https://theloop.gov.bc.ca/dev/kpub/_vti_bin/listData.svc/Browsers(57)/Attachments"
+    }
+  },
+  "Path": "/dev/kpub/Lists/Browsers"
+}]

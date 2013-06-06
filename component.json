@@ -1,0 +1,12 @@
+{
+  "name": "region3-procedures",
+  "version": "0.0.0",
+  "dependencies": {
+    "jquery": "~1.9.1",
+    "datatables": "~1.9.4",
+    "jquery-ui": "~1.10.2",
+    "history.js": "latest",
+    "select2": "~3.3.1",
+    "handlebars.js": "~1.0.10"
+  }
+}

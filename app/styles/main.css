@@ -1,0 +1,30 @@
+.DataTables_sort_icon {
+  display: inline-block;
+  float: left;
+}
+.fg-toolbar {
+  padding: 3px 3px 2px 10px;
+}
+#s2id_topic-filter {
+  float: right;
+  margin-left: 20px;
+}
+#procedure-pulltab {
+  display: block;
+  margin: 0 auto;
+}
+#procedurePanel {
+  padding: 1em;
+}
+#linksPanel {
+  float:right ;
+  width: 40%;
+  margin: 1em;
+}
+
+#procedures_filter input{
+  width: 187px;
+  padding: 7px;
+  margin: 1px 0;
+  border: 1px solid #AAA;
+}

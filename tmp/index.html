@@ -1,0 +1,87 @@
+<!doctype html>
+<!--[if lt IE 7]>
+<html class="no-js lt-ie9 lt-ie8 lt-ie7">
+<![endif]-->
+<!--[if IE 7]>
+<html class="no-js lt-ie9 lt-ie8">
+<![endif]-->
+<!--[if IE 8]>
+<html class="no-js lt-ie9">
+<![endif]-->
+<!--[if gt IE 8]>
+<!-->
+<html class="no-js">
+<!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Procedures</title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width">
+
+  <!-- custom_master.master resources Do not copy -->
+  <link rel="stylesheet" href="https://theloop.gov.bc.ca/ssrc/css/Aristo/Aristo.css">
+  <link rel="stylesheet" href="https://theloop.gov.bc.ca/_layouts/1033/styles/Themable/corev4.css?rev=3TRomkG1g2gMGz4rekMIQg%3D%3D">
+  <link rel="stylesheet" href="https://theloop.gov.bc.ca/Style%20Library/en-us/Themable/Core%20Styles/customScreen.css
+  ">
+
+  <style>
+  /* body fix to allow scrolling outside of SharePoint */
+  body { overflow: auto; }
+  /* a content area the same size as in the Loop */
+  .grid10 { width: 796px; margin: 0 auto; }
+  </style>
+
+  <script src="https://theloop.gov.bc.ca/ssrc/scripts/jquery.js"></script>
+  <!-- end custom_master.master resources -->
+
+  <!-- copy includes to SitePage PlaceHolderAdditionalPageHead -------------------------------- -->
+
+  <link rel="stylesheet" href="styles/build.css">
+
+  <script src="scripts/build.js"></script>
+
+  <!-- ---------------------------------------------------------------------------------------- -->
+
+</head>
+<body>
+  <div class="grid10">
+    <h1>Procedures</h1>
+
+    <!-- copy html to SitePage PlaceHolderMain ------------------------------------------------ -->
+
+    <div id="tableHolder">
+      <table id="procedures">
+        <thead>
+          <tr>
+            <th>Procedure</th>
+            <th>Topics</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+      <button id="procedure-pulltab">Pick a different procedure</button>
+    </div>
+    <div id="procedurePanel"></div>
+
+    <script id="procedure-template" type="text/x-handlebars-template">
+    {{#if links.length}}
+    <div id="linksPanel" class="ms-rteElement-Callout2">
+      <h3>Important Links</h3>
+      <ul>
+        {{#each links}}
+        <li>{{{this}}}</li>
+        {{/each}}
+      </ul>
+    </div>
+    {{/if}}
+
+    <h2>{{title}}</h2>
+    {{{text}}}
+    </script>
+
+    <!-- ---------------------------------------------------------------------------------------- -->
+
+  </div>
+</body>
+</html>
